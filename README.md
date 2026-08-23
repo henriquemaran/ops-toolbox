@@ -1,6 +1,6 @@
 # Ops Toolbox
 
-[![Quality checks](https://github.com/henriquemaran/mostusedcommands/actions/workflows/quality.yml/badge.svg)](https://github.com/henriquemaran/mostusedcommands/actions/workflows/quality.yml)
+[![Quality checks](https://github.com/henriquemaran/ops-toolbox/actions/workflows/quality.yml/badge.svg)](https://github.com/henriquemaran/ops-toolbox/actions/workflows/quality.yml)
 
 Notas técnicas e pequenos utilitários para rotinas de Linux, containers e
 automação. O conteúdo prioriza exemplos reproduzíveis, avisos de segurança e
